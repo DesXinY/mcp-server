@@ -14,7 +14,7 @@ logging.basicConfig(
 )
 
 # knowledge base domain
-g_knowledge_base_domain = "api-knowledgebase.mlp.cn-beijing.volces.com"
+g_knowledge_base_domain = "multi-cloud.byted.org"
 
 # paths
 search_knowledge_path = "/api/knowledge/collection/search_knowledge"
